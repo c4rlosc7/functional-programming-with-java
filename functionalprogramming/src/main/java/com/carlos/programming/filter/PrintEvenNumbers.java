@@ -15,6 +15,12 @@ public class PrintEvenNumbers {
                 .forEach(System.out::println);
     }
 
+    private static void printEvenNumbersInListFunction2(List<Integer> numbers) {
+        numbers.stream()
+                .filter(number -> number % 2 == 0)
+                .forEach(System.out::println);
+    }
+
     private static void printEventNumbersInListStructured(List<Integer> numbers) {
         for (int number:numbers) {
             if (number%2 == 0) {
@@ -25,8 +31,10 @@ public class PrintEvenNumbers {
 
     public static void main(String[] args) {
         List<Integer> listNumbers = Arrays.asList(12, 9, 13, 4, 6, 2, 4, 12, 15);
-        System.out.println("=======function-even=======");
+        System.out.println("=======function-even 1=======");
         printEvenNumbersInListFunction(listNumbers);
+        System.out.println("=======function-even 2=======");
+        printEvenNumbersInListFunction2(listNumbers);
         System.out.println("=======structured-even=======");
         printEventNumbersInListStructured(listNumbers);
     }
