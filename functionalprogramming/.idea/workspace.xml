@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da4d7a9-f607-4370-9407-485d16c17bd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/reduce/SumListNumberFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/collectors/SolutionCollectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/distinct/SolutionDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/predicate/InterfacesPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/sorted/SolutionSorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlos/programming/reduce/SumListNumberFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/reduce/SumListNumberFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/reduce/SumListNumberFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/reduce/SumListNumberFunction.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,33 +23,35 @@
     <session id="-1149066046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="41" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="41" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="994" />
+          <entry key="java" value="2026" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="994" />
+          <entry key="JAVA" value="2026" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -52,12 +60,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/reduce/SumListNumberFunction.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+            <state relative-caret-position="228">
+              <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#557#584#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,14 +119,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/exercises/SolutionExercise05.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/stream/SumListNumberFunction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/reduce/SumListNumberFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/distinct/SolutionDistinct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/sorted/SolutionSorted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/collectors/SolutionCollectors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/predicate/InterfacesPredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/behavior/BehaviorParameterization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="436" />
-    <option name="y" value="1160" />
-    <option name="width" value="461" />
-    <option name="height" value="248" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -125,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -161,17 +177,46 @@
             </path>
             <path>
               <item name="functionalprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functionalprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programming" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functionalprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functionalprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programming" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="behaviorparameterization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functionalprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="functionalprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programming" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="functionalprogramming" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576691304178" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577403586356" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -189,13 +234,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumListNumberFunction">
-    <configuration name="SolutionExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.exercises.SolutionExercise02" />
+  <component name="RunManager" selected="Application.BehaviorParameterization">
+    <configuration name="BehaviorParameterization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.interfaces.behaviorparameterization.BehaviorParameterization" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.exercises.*" />
+          <option name="PATTERN" value="com.carlos.programming.interfaces.behaviorparameterization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionExercise04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.exercises.SolutionExercise04" />
+    <configuration name="InterfacesPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.interfaces.predicate.InterfacesPredicate" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.exercises.*" />
+          <option name="PATTERN" value="com.carlos.programming.interfaces.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionExercise05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.exercises.SolutionExercise05" />
+    <configuration name="SolutionCollectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.collectors.SolutionCollectors" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.exercises.*" />
+          <option name="PATTERN" value="com.carlos.programming.collectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumListNumberFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.reduce.SumListNumberFunction" />
+    <configuration name="SolutionDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.distinct.SolutionDistinct" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.reduce.*" />
+          <option name="PATTERN" value="com.carlos.programming.distinct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.map.UsingMap" />
+    <configuration name="SolutionSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.sorted.SolutionSorted" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.map.*" />
+          <option name="PATTERN" value="com.carlos.programming.sorted.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,19 +301,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SolutionExercise02" />
-      <item itemvalue="Application.UsingMap" />
-      <item itemvalue="Application.SolutionExercise04" />
-      <item itemvalue="Application.SolutionExercise05" />
-      <item itemvalue="Application.SumListNumberFunction" />
+      <item itemvalue="Application.SolutionDistinct" />
+      <item itemvalue="Application.SolutionSorted" />
+      <item itemvalue="Application.SolutionCollectors" />
+      <item itemvalue="Application.InterfacesPredicate" />
+      <item itemvalue="Application.BehaviorParameterization" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumListNumberFunction" />
-        <item itemvalue="Application.SolutionExercise04" />
-        <item itemvalue="Application.SolutionExercise05" />
-        <item itemvalue="Application.UsingMap" />
-        <item itemvalue="Application.SolutionExercise02" />
+        <item itemvalue="Application.BehaviorParameterization" />
+        <item itemvalue="Application.InterfacesPredicate" />
+        <item itemvalue="Application.SolutionCollectors" />
+        <item itemvalue="Application.SolutionSorted" />
+        <item itemvalue="Application.SolutionDistinct" />
       </list>
     </recent_temporary>
   </component>
@@ -293,8 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="892" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="DB Browser" order="1" />
@@ -305,7 +349,7 @@
       <window_info id="Job Explorer" order="6" />
       <window_info id="Learn" order="7" />
       <window_info id="Designer" order="8" />
-      <window_info content_ui="combo" id="Project" order="9" weight="0.25037822" />
+      <window_info active="true" content_ui="combo" id="Project" order="9" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="10" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -315,7 +359,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.4180328" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.18688525" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -339,7 +383,7 @@
       <window_info id="Job Explorer" order="6" />
       <window_info id="Learn" order="7" />
       <window_info id="Designer" order="8" />
-      <window_info content_ui="combo" id="Project" order="9" weight="0.25037822" />
+      <window_info content_ui="combo" id="Project" order="9" weight="0.25416037" />
       <window_info id="Structure" order="10" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -349,7 +393,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.4180328" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.28032786" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -376,23 +420,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/stream/filter/PrintEvenNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/filter/PrintEvenNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/map/UsingMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -428,19 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/stream/PrintAllNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -455,19 +473,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2088">
           <caret line="1786" column="22" selection-start-line="1786" selection-start-column="22" selection-end-line="1786" selection-end-column="22" />
-          <folding>
-            <element signature="e#69501#69502#0" expanded="true" />
-            <element signature="e#69529#69530#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/reduce/SumListNumberFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        <state relative-caret-position="120">
+          <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/collectors/SolutionCollectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/distinct/SolutionDistinct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/sorted/SolutionSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/spring-cloud/jdk-11.0.4/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="710" column="32" lean-forward="true" selection-start-line="710" selection-start-column="32" selection-end-line="710" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/spring-cloud/jdk-11.0.4/lib/src.zip!/java.base/java/util/stream/StreamSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/stream/PrintAllNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/filter/PrintEvenNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/spring-cloud/jdk-11.0.4/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/spring-cloud/jdk-11.0.4/lib/src.zip!/java.base/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/spring-cloud/jdk-11.0.4/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/predicate/InterfacesPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="39" selection-start-line="39" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#557#584#0" expanded="true" />
           </folding>
         </state>
       </provider>
