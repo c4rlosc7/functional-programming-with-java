@@ -1,70 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3da4d7a9-f607-4370-9407-485d16c17bd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/customclass/CustomClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/exercises/SolutionExercise06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/consumer/InterfacesBiConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/consumer/InterfacesConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/function/InterfacesBiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/function/InterfacesFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/predicate/InterfacesBiPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/supplier/InterfacesSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/unaryoperator/InterfacesUnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/pojos/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/behavior/BehaviorParameterization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlos/programming/exercises/SolutionExercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/exercises/SolutionExercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/collectors/SolutionCollectors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/collectors/SolutionCollectors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/customclass/CustomClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/customclass/CustomClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/distinct/SolutionDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/distinct/SolutionDistinct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/filter/PrintEvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/filter/PrintEvenNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesBiConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesBiConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesBiFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesBiFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesBiPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesBiPredicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/supplier/InterfacesSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/supplier/InterfacesSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/unaryoperator/InterfacesUnaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/unaryoperator/InterfacesUnaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/map/UsingMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/map/UsingMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/pojos/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/pojos/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/reduce/SumListNumberFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/reduce/SumListNumberFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/sorted/SolutionSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/sorted/SolutionSorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/stream/PrintAllNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/stream/PrintAllNumbers.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1149066046">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="65" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="65" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="31" />
-          <entry key="java" value="3848" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3848" />
-          <entry key="PLAIN_TEXT" value="31" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="functionalprogramming" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -198,12 +176,16 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectId" id="2xppW7437MbA1eQOXXal9MKINLF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -251,27 +233,26 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578011892605" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.CustomClass">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SolutionCollectors.executor": "Run",
+    "Application.SolutionExercise05.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/carlosandresmartinez/Documents/DEV/functional-programming-with-java/functionalprogramming",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SolutionExercise05">
     <configuration name="CustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.carlos.programming.customclass.CustomClass" />
       <module name="functional-programming" />
@@ -298,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacesBiFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.interfaces.function.InterfacesBiFunction" />
+    <configuration name="SolutionCollectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.collectors.SolutionCollectors" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.interfaces.function.*" />
+          <option name="PATTERN" value="com.carlos.programming.collectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacesBiPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.interfaces.predicate.InterfacesBiPredicate" />
+    <configuration name="SolutionExercise05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.exercises.SolutionExercise05" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.interfaces.predicate.*" />
+          <option name="PATTERN" value="com.carlos.programming.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,19 +319,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InterfacesBiPredicate" />
-      <item itemvalue="Application.InterfacesBiFunction" />
+      <item itemvalue="Application.SolutionCollectors" />
+      <item itemvalue="Application.SolutionExercise05" />
       <item itemvalue="Application.InterfacesBiConsumer" />
       <item itemvalue="Application.SolutionExercise06" />
       <item itemvalue="Application.CustomClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SolutionExercise05" />
+        <item itemvalue="Application.SolutionCollectors" />
         <item itemvalue="Application.CustomClass" />
         <item itemvalue="Application.SolutionExercise06" />
         <item itemvalue="Application.InterfacesBiConsumer" />
-        <item itemvalue="Application.InterfacesBiFunction" />
-        <item itemvalue="Application.InterfacesBiPredicate" />
       </list>
     </recent_temporary>
   </component>
@@ -361,6 +342,7 @@
       </map>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -460,29 +442,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
