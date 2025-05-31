@@ -1,6 +1,7 @@
 package com.carlos.programming.stream;
 
-import java.util.Arrays;
+import com.carlos.programming.constant.Constants;
+
 import java.util.List;
 
 public class PrintAllNumbers {
@@ -9,9 +10,8 @@ public class PrintAllNumbers {
         System.out.println(number);
     }
 
-    private static void printAllNumbersInListFunction(List<Integer> numbers) {
-        numbers.stream()
-                .forEach(PrintAllNumbers::print);
+    private static boolean isEven(int number) {
+        return number % 2 == 0;
     }
 
     private static void printAllNumbersInListStructured(List<Integer> numbers) {
@@ -20,9 +20,14 @@ public class PrintAllNumbers {
         }
     }
 
+    private static void printAllNumbersInListFunction(List<Integer> numbers) {
+        numbers.stream()
+                .filter(PrintAllNumbers::isEven)
+                .forEach(PrintAllNumbers::print);
+    }
+
     public static void main(String[] args) {
-        List<Integer> listNumbers = Arrays.asList(12, 9, 13, 4, 6, 2, 4, 12, 15);
-        printAllNumbersInListFunction(listNumbers);
-        printAllNumbersInListStructured(listNumbers);
+        printAllNumbersInListFunction(Constants.INTEGER_LIST);
+        // printAllNumbersInListStructured(listNumbers);
     }
 }

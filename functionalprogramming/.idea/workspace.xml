@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3da4d7a9-f607-4370-9407-485d16c17bd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlos/programming/exercises/SolutionExercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/exercises/SolutionExercise05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/collectors/SolutionCollectors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/collectors/SolutionCollectors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/customclass/CustomClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/customclass/CustomClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/distinct/SolutionDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/distinct/SolutionDistinct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/exercises/SolutionExercise06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/filter/PrintEvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/filter/PrintEvenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/behaviorparameterization/BehaviorParameterization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesBiConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesBiConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/consumer/InterfacesConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesBiFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesBiFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/function/InterfacesFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesBiPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesBiPredicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/predicate/InterfacesPredicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/supplier/InterfacesSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/supplier/InterfacesSupplier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/unaryoperator/InterfacesUnaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/interfaces/unaryoperator/InterfacesUnaryOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/map/UsingMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/map/UsingMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/pojos/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/pojos/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/reduce/SumListNumberFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/reduce/SumListNumberFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/sorted/SolutionSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/sorted/SolutionSorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlos/programming/stream/PrintAllNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlos/programming/stream/PrintAllNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/carlos/programming/stream/PrintAllNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlos/programming/stream/PrintAllNumbers.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,6 +209,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PrintAllNumbers.executor": "Run",
     "Application.SolutionCollectors.executor": "Run",
     "Application.SolutionExercise05.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -252,7 +223,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SolutionExercise05">
+  <component name="RunManager" selected="Application.PrintAllNumbers">
     <configuration name="CustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.carlos.programming.customclass.CustomClass" />
       <module name="functional-programming" />
@@ -266,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacesBiConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.interfaces.consumer.InterfacesBiConsumer" />
+    <configuration name="PrintAllNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlos.programming.stream.PrintAllNumbers" />
       <module name="functional-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carlos.programming.interfaces.consumer.*" />
+          <option name="PATTERN" value="com.carlos.programming.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,19 +290,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PrintAllNumbers" />
       <item itemvalue="Application.SolutionCollectors" />
       <item itemvalue="Application.SolutionExercise05" />
-      <item itemvalue="Application.InterfacesBiConsumer" />
       <item itemvalue="Application.SolutionExercise06" />
       <item itemvalue="Application.CustomClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintAllNumbers" />
         <item itemvalue="Application.SolutionExercise05" />
         <item itemvalue="Application.SolutionCollectors" />
         <item itemvalue="Application.CustomClass" />
         <item itemvalue="Application.SolutionExercise06" />
-        <item itemvalue="Application.InterfacesBiConsumer" />
       </list>
     </recent_temporary>
   </component>
